@@ -4,6 +4,14 @@
 
 Analisi dati, reportistica e automazione dei processi. Sviluppo applicazioni e dashboard interattive per rendere le informazioni più accessibili, supportare le decisioni e semplificare le attività operative.
 
+## StudioHub — Demo video
+
+Una piattaforma che riunisce organizzazione dei PDF, verifiche sui dati paghe, reportistica e abbinamento tra incassi e fatture. Include salvataggio automatico, ripresa delle lavorazioni e storico delle attività completate.
+
+🎬 [Guarda la demo con sottotitoli — 74 secondi](https://github.com/AntonioDiRauso27/AntonioDiRauso27/raw/refs/heads/main/StudioHub_Demo_Sottotitoli.mp4)
+
+Demo con dati fittizi. Codice e applicazioni restano privati.
+
 ## Progetti
 
 | Progetto | Cosa fa |
