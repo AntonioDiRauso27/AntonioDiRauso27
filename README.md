@@ -6,9 +6,9 @@ Analisi dati, reportistica e automazione dei processi. Sviluppo applicazioni e d
 
 ## StudioHub — Demo video
 
-Una piattaforma che riunisce organizzazione dei PDF, verifiche sui dati paghe, reportistica e abbinamento tra incassi e fatture. Include salvataggio automatico, ripresa delle lavorazioni e storico delle attività completate.
+Piattaforma Python per studi professionali: organizza i PDF e assegna le fatture XML alle rispettive aziende, riconoscendo i duplicati e segnalando i casi da verificare. Include controlli paghe, report grafici, verifica degli incassi e salvataggio automatico delle lavorazioni.
 
-🎬 [Guarda la demo con sottotitoli — 74 secondi](https://github.com/AntonioDiRauso27/AntonioDiRauso27/raw/refs/heads/main/StudioHub_Demo_Sottotitoli.mp4)
+🎬 [Guarda la demo con sottotitoli — 70 secondi](https://github.com/AntonioDiRauso27/AntonioDiRauso27/raw/refs/heads/main/StudioHub_Demo_Sottotitoli.mp4)
 
 Demo con dati fittizi. Codice e applicazioni restano privati.
 
