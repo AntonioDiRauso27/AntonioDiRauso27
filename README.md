@@ -24,8 +24,12 @@ Demo con dati fittizi. Codice e applicazioni restano privati.
 | [Titanic Analytics](https://github.com/AntonioDiRauso27/Titanic-Data-Analysis) | Esercitazione di analisi esplorativa con Python, pandas e dashboard interattiva. |
 
 
-## Strumenti
+## Tecnologie utilizzate nei progetti
 
-Python · pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
-Microsoft 365 · Excel · SharePoint · Power Automate  
-HTML · CSS · JavaScript
+- **Analisi dati:** Python · pandas · NumPy · Matplotlib · Seaborn
+- **Applicazioni e dashboard:** HTML · CSS · JavaScript · FastAPI · Uvicorn · Jinja2
+- **Dati e documenti:** SQLite · pypdf
+- **Sviluppo desktop:** Swift · WebKit
+- **Compilazione e test JavaScript:** Node.js
+- **Test e distribuzione:** GitHub Actions · Playwright · unittest · PyInstaller
+- **Formati elaborati:** CSV · JSON · XML · PDF · ZIP
