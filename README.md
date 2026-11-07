@@ -38,6 +38,37 @@ Il picco delle aggiunte registrate è nel 2019, con 2.016 titoli. Il 2021 è par
 
 La durata mediana è di 98 minuti, mentre la media è di 99,56 minuti.
 
+### Categorie più presenti
+
+![Categorie più presenti](figures/02_categorie.png)
+
+Un titolo può appartenere a più categorie: i conteggi non rappresentano gruppi separati e non devono sommare al totale dei titoli.
+
+### Paesi associati ai titoli
+
+![Paesi associati ai titoli](figures/03_paesi.png)
+
+Le coproduzioni vengono conteggiate per ciascun paese indicato. Il campo non identifica i luoghi delle riprese né i mercati in cui i titoli erano disponibili.
+
+### Classificazioni del pubblico
+
+![Classificazioni del pubblico](figures/06_rating.png)
+
+Il rating indica la classificazione del pubblico, non un voto di gradimento. Sono esclusi i sette titoli senza classificazione disponibile.
+
+### Attori più presenti
+
+![Attori più presenti](figures/07_attori.png)
+
+Numero di titoli distinti associati a ciascun attore nel cast disponibile. Il conteggio non misura popolarità o visualizzazioni.
+
+### Registi più presenti
+
+![Registi più presenti](figures/08_registi.png)
+
+I co-registi vengono conteggiati separatamente. Sono esclusi i dati mancanti; a parità di conteggio, l’ordine è alfabetico.
+
+
 Codice, notebook e dataset sono conservati in un repository privato. Le analisi riguardano il campione storico e non il catalogo Netflix attuale.
 
 
