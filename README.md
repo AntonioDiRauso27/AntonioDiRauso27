@@ -12,6 +12,35 @@ Piattaforma Python per studi professionali: organizza i PDF e assegna le fatture
 
 Demo con dati fittizi. Codice e applicazioni restano privati.
 
+## Netflix Data Analysis
+
+Analisi esplorativa di un dataset storico di 8.807 titoli Netflix, con Python, pandas, NumPy e Matplotlib.
+
+Il progetto approfondisce qualità dei dati, composizione tra film e serie TV, categorie, paesi associati, aggiunte nel tempo e durata dei film.
+
+Sono stati gestiti dati mancanti, recuperate durate inserite nella colonna errata e separati i campi contenenti più paesi, attori e registi.
+
+### Film e serie TV
+
+![Film e serie TV](figures/01_film_e_serie.png)
+
+I film rappresentano il 69,6% dei titoli del campione. Questa percentuale descrive la composizione del dataset, non le preferenze degli utenti.
+
+### Aggiunte nel tempo
+
+![Aggiunte annuali](figures/04_aggiunte_annuali.png)
+
+Il picco delle aggiunte registrate è nel 2019, con 2.016 titoli. Il 2021 è parziale e il dataset non documenta le rimozioni dal catalogo.
+
+### Durata dei film
+
+![Durata dei film](figures/05_durate.png)
+
+La durata mediana è di 98 minuti, mentre la media è di 99,56 minuti.
+
+Codice, notebook e dataset sono conservati in un repository privato. Le analisi riguardano il campione storico e non il catalogo Netflix attuale.
+
+
 ## Progetti
 
 | Progetto | Cosa fa |
