@@ -82,7 +82,7 @@ Codice, notebook e dataset sono conservati in un repository privato. Le analisi 
 | [Riconcilia](https://github.com/AntonioDiRauso27/Riconcilia) | Propone abbinamenti tra incassi e fatture, con gestione di pagamenti parziali e casi ambigui. |
 | [DocFlow](https://github.com/AntonioDiRauso27/DocFlow) | Propone la classificazione e l'organizzazione di documenti PDF, con revisione dell'operatore. |
 | [Titanic Analytics](https://github.com/AntonioDiRauso27/Titanic-Data-Analysis) | Esercitazione di analisi esplorativa con Python, pandas e dashboard interattiva. |
-| [Netflix Data Analysis](#netflix-data-analysis) | Analisi esplorativa con Python: qualità dei dati, composizione dei contenuti, analisi temporale e visualizzazione dei risultati. |
+| [Netflix Data Analysis](Netflix-Data-Analysis.md) | Analisi esplorativa con Python: qualità dei dati, composizione dei contenuti, analisi temporale e visualizzazione dei risultati. |
 
 ## Tecnologie utilizzate nei progetti
 
