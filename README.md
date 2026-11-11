@@ -4,11 +4,11 @@
 
 Analisi dati, reportistica e automazione dei processi. Sviluppo applicazioni e dashboard interattive per rendere le informazioni più accessibili, supportare le decisioni e semplificare le attività operative.
 
-## StudioHub — Demo video
+## StudioHub — Automazione per lo studio
 
-Piattaforma Python per studi professionali: organizza i PDF e assegna le fatture XML alle rispettive aziende, riconoscendo i duplicati e segnalando i casi da verificare. Include controlli paghe, report grafici, verifica degli incassi e salvataggio automatico delle lavorazioni.
+Applicazione Python che automatizza lo smistamento di PDF e fatture XML tra aziende, esegue 20 regole di controllo paghe, abbina incassi e fatture e aggiorna report sul costo del personale. Fonti consultabili, riscontri assegnabili e salvataggio automatico delle lavorazioni.
 
-🎬 [Guarda la demo con sottotitoli — 70 secondi](https://github.com/AntonioDiRauso27/AntonioDiRauso27/raw/refs/heads/main/StudioHub_Demo_Sottotitoli.mp4)
+🎬 [Guarda la demo con sottotitoli — 95 secondi](https://github.com/AntonioDiRauso27/AntonioDiRauso27/raw/refs/heads/main/StudioHub_Demo_Sottotitoli.mp4) · [Funzioni e automazioni del progetto](StudioHub.md)
 
 Demo con dati fittizi. Codice e applicazioni restano privati.
 
@@ -16,7 +16,7 @@ Demo con dati fittizi. Codice e applicazioni restano privati.
 
 | Progetto | Cosa fa |
 | --- | --- |
-| [StudioHub — Demo video](https://github.com/AntonioDiRauso27/AntonioDiRauso27/raw/refs/heads/main/StudioHub_Demo_Sottotitoli.mp4) | Riunisce documenti, verifiche paghe, report e incassi, con autosalvataggio e ripresa delle lavorazioni. |
+| [StudioHub](StudioHub.md) | Automatizza documenti e fatture per azienda, controlli paghe, abbinamento degli incassi e analisi dei costi, con fonti e riscontri tracciabili. |
 | [ReportFlow](https://github.com/AntonioDiRauso27/ReportFlow) | Trasforma export CSV in dashboard e report trimestrali per più aziende. |
 | [Payroll Control](https://github.com/AntonioDiRauso27/Payroll-Control) | Individua casi da approfondire nei dati paghe e permette di documentare le verifiche. |
 | [Riconcilia](https://github.com/AntonioDiRauso27/Riconcilia) | Propone abbinamenti tra incassi e fatture, con gestione di pagamenti parziali e casi ambigui. |
