@@ -79,6 +79,6 @@ Le importazioni e gli interventi confermati vengono conservati in SQLite; note e
 
 ## Ambito della dimostrazione
 
-Prototipo locale, predisposto in pacchetti Mac Apple Silicon e Windows x64. La nuova verifica esecutiva Windows deve completare il relativo workflow. Non sono presenti collegamenti diretti a gestionali, email, banche o SharePoint, né accesso condiviso multiutente. I controlli segnalano eccezioni da approfondire e non certificano la correttezza fiscale o contabile.
+Prototipo locale, predisposto in pacchetti Mac Apple Silicon e Windows x64. La versione 1.0.4 ha superato i test automatici su Windows, inclusi runtime e browser ([verifica GitHub Actions](https://github.com/AntonioDiRauso27/StudioHub/actions/runs/43116766778)). Non sono presenti collegamenti diretti a gestionali, email, banche o SharePoint, né accesso condiviso multiutente. I controlli segnalano eccezioni da approfondire e non certificano la correttezza fiscale o contabile.
 
 Codice sorgente e pacchetti dell’applicazione restano **privati**. Questa pagina pubblica contiene soltanto presentazione, immagini e video.
